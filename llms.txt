@@ -11,7 +11,12 @@ Gert Lucas Roos, also known as Gerlu Roos, is a South African agribusiness and a
 - Projects and experience: https://gertlucasroos.com/projects-and-experience.html
 - Résumé profile: https://gertlucasroos.com/resume.html
 - Media and recognition: https://gertlucasroos.com/media.html
+- Agricultural recognition evidence: https://gertlucasroos.com/agricultural-recognition.html
 - Articles and insights: https://gertlucasroos.com/articles.html
+- Professional contact: https://gertlucasroos.com/contact.html
+
+## Independent agricultural recognition
+Independent agricultural publications document Gerlu Roos in connection with the PIONEER Weigh and Win Eastern Region dryland maize results, including a published yield of 15.373 t/ha. The official website's agricultural recognition page links directly to the independent source material.
 
 ## Published articles
 - The Future of South African Agriculture: https://gertlucasroos.com/future-of-south-african-agriculture.html
@@ -20,7 +25,7 @@ Gert Lucas Roos, also known as Gerlu Roos, is a South African agribusiness and a
 - Technology and Operational Efficiency: https://gertlucasroos.com/technology-and-operational-efficiency.html
 
 ## Feed and discovery
-- RSS feed: https://gertlucasroos.com/feed.xml
+- RSS feed: https://gertlucasroos.com/rss.xml
 - XML sitemap: https://gertlucasroos.com/sitemap.xml
 
-For professional enquiries, use the contact information published on the official website.
+For professional enquiries, use the dedicated contact page on the official website.
