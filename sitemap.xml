@@ -1,46 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-  <loc>https://gertlucasroos.com/</loc>
-  <lastmod>2026-08-14</lastmod>
-  <image:image>
-    <image:loc>https://gertlucasroos.com/gert-lucas-roos.jpg</image:loc>
-  </image:image>
-</url>
-
-  <url>
-    <loc>https://gertlucasroos.com/future-of-south-african-agriculture.html</loc>
-    <lastmod>2026-08-13</lastmod>
+    <loc>https://gertlucasroos.com/</loc>
+    <lastmod>2026-08-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image><image:loc>https://gertlucasroos.com/gert-lucas-roos.jpg</image:loc></image:image>
   </url>
-<url>
-  <loc>https://gertlucasroos.com/agriculture-is-more-than-farming.html</loc>
-  <lastmod>2026-08-13</lastmod>
-</url> 
-    <url>
-    <loc>https://gertlucasroos.com/building-resilient-agricultural-businesses-in-africa.html</loc>
-    <lastmod>2026-08-14</lastmod>
-  </url>
-
-  <url>
-    <loc>https://gertlucasroos.com/technology-and-operational-efficiency.html</loc>
-    <lastmod>2026-08-14</lastmod>
-  </url> 
-        <url>
-        <loc>https://gertlucasroos.com/gert-lucas-roos.html</loc>
-        <lastmod>2026-08-14</lastmod>
-    </url>   
-        <url>
-  <loc>https://gertlucasroos.com/projects-and-experience.html</loc>
-  <lastmod>2026-08-15</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.8</priority>
-</url> 
-  <url>
-    <loc>https://gertlucasroos.com/professional-background.html</loc>
-    <lastmod>2026-08-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-</url>      
+  <url><loc>https://gertlucasroos.com/gert-lucas-roos.html</loc><lastmod>2026-08-28</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://gertlucasroos.com/resume.html</loc><lastmod>2026-08-28</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://gertlucasroos.com/professional-background.html</loc><lastmod>2026-08-28</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://gertlucasroos.com/projects-and-experience.html</loc><lastmod>2026-08-28</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://gertlucasroos.com/media.html</loc><lastmod>2026-08-28</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://gertlucasroos.com/future-of-south-african-agriculture.html</loc><lastmod>2026-08-13</lastmod><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://gertlucasroos.com/agriculture-is-more-than-farming.html</loc><lastmod>2026-08-13</lastmod><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://gertlucasroos.com/building-resilient-agricultural-businesses-in-africa.html</loc><lastmod>2026-08-14</lastmod><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://gertlucasroos.com/technology-and-operational-efficiency.html</loc><lastmod>2026-08-14</lastmod><changefreq>yearly</changefreq><priority>0.7</priority></url>
 </urlset>
