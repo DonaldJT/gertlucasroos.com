@@ -14,8 +14,16 @@ The site includes:
 - Agricultural operations and commercial experience
 - Projects and international agricultural exposure
 - Résumé-style professional profile
-- Media references and agricultural recognition
+- Media references and independently documented agricultural recognition
 - Original articles on agriculture, agribusiness, resilience and operational efficiency
+- Dedicated professional contact page
+
+## Agricultural recognition
+
+A dedicated evidence page documents independently published agricultural recognition associated with Gerlu Roos, including the PIONEER® Weigh and Win Eastern Region dryland maize result of **15.373 t/ha**.
+
+- Recognition page: https://gertlucasroos.com/agricultural-recognition.html
+- Media and recognition hub: https://gertlucasroos.com/media.html
 
 ## Published perspectives
 
@@ -24,8 +32,12 @@ The site includes:
 - Building Resilient Agricultural Businesses in Africa
 - Technology and Operational Efficiency in Agriculture
 
+Articles hub: https://gertlucasroos.com/articles.html
+
 ## Professional profiles
 
+- LinkedIn: https://www.linkedin.com/in/gert-lucas-roos-45aa20230
+- Crunchbase: https://www.crunchbase.com/person/gert-lucas-roos
 - Medium: https://medium.com/@gertlucasroos
 - About.me: https://about.me/gertlucasroos
 - GitHub: https://github.com/DonaldJT
@@ -33,6 +45,15 @@ The site includes:
 - Instagram: https://www.instagram.com/gerluroos/
 - YouTube: https://www.youtube.com/@gertlucasroos
 
+## Search and machine-readable discovery
+
+- XML sitemap: https://gertlucasroos.com/sitemap.xml
+- RSS feed: https://gertlucasroos.com/rss.xml
+- AI-readable site summary: https://gertlucasroos.com/llms.txt
+- Robots policy: https://gertlucasroos.com/robots.txt
+
 ## Contact
 
 Professional enquiries: **gertlucasroos@gmail.com**
+
+Contact page: https://gertlucasroos.com/contact.html
