@@ -1,0 +1,18 @@
+{
+  "name": "Gert Lucas Roos",
+  "short_name": "Gert Roos",
+  "description": "Official professional website of Gert Lucas Roos (Gerlu Roos), focused on agribusiness, agricultural operations, farm management, commodity trading, procurement, logistics, projects and business development.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f6f6f1",
+  "theme_color": "#18351f",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
